@@ -5,7 +5,7 @@ spring:
     hibernate:
       ddl-auto: create
   datasource:
-    url: jdbc:mysql://127.0.0.1:3360/SchoolDB
+    url: jdbc:mysql://mysql:3360/SchoolDB
     username: root
     password: root
   application:
